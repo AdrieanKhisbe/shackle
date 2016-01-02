@@ -1,10 +1,20 @@
 shackle
 =========
+.. image:: http://melpa.org/packages/shackle-badge.svg
+   :target: http://melpa.org/#/shackle
+.. image:: http://stable.melpa.org/packages/shackle-badge.svg
+   :target: http://stable.melpa.org/#/shackle
+.. image:: https://img.shields.io/github/tag/wasamasa/shackle.svg
+   :target: https://github.com/wasamasa/shackle/tags
+.. image:: http://img.shields.io/:license-gpl3-blue.svg
+   :target: http://www.gnu.org/licenses/gpl-3.0.html
+
+..
+
+    Enforce rules for popups
 
 .. image:: https://raw.githubusercontent.com/wasamasa/shackle/master/img/shackle.gif
 
-About
------
 
 ``shackle`` gives you the means to put an end to popped up buffers not
 behaving they way you'd like them to.  By setting up simple rules you
